@@ -542,7 +542,6 @@ Para dúvidas ou problemas:
 
 ---
 
-**Versão:** 1.0**Última atualização:** Janeiro 2024
 
 ```plaintext
 
