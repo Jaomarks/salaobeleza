@@ -1,4 +1,41 @@
+ 💇‍♀️ API Sistema de Agendamento - Salão de Beleza
 
+API REST completa para gerenciamento de agendamentos de salão de beleza, otimizada para integração com n8n e automações via WhatsApp.
+
+## 🚀 Funcionalidades
+
+- ✅ **Gestão de Clientes** - CRUD completo
+- ✅ **Gestão de Profissionais** - Com especialidades
+- ✅ **Sistema de Agendamentos** - Com verificação de conflitos
+- ✅ **Controle de Pagamentos** - Múltiplas formas
+- ✅ **Consulta de Horários** - Disponibilidade em tempo real
+- ✅ **Integração n8n** - Pronto para automações
+- ✅ **WhatsApp Ready** - Estruturado para bots
+
+## 🛠️ Tecnologias
+
+- **Node.js** + **Express.js**
+- **MySQL** com **mysql2**
+- **CORS** habilitado
+- **JSON** para todas as comunicações
+
+## 📦 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/SEU_USUARIO/salao-beleza-api.git
+cd salao-beleza-api
+
+# Instale as dependências
+npm install
+
+# Configure o banco de dados
+# 1. Crie o banco MySQL
+# 2. Execute o script SQL fornecido
+# 3. Configure o .env baseado no .env.example
+
+# Inicie o servidor
+npm start
 ### Teste da API
 
 ```plaintext
