@@ -23,7 +23,7 @@ API REST completa para gerenciamento de agendamentos de salão de beleza, otimiz
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/salao-beleza-api.git
+git clona ai o repositorio
 cd salao-beleza-api
 
 # Instale as dependências
